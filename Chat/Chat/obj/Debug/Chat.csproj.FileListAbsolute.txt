@@ -1,0 +1,46 @@
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\bin\Debug\Chat.exe.config
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\bin\Debug\Chat.exe
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\bin\Debug\Chat.pdb
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.Form1.resources
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.exe
+G:\EC\4° SEMESTRE\Linguagem de Programação I\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\laris\OneDrive\Documentos\Engenharia_Computacao\4_Semestre\Chat\BatalhaNaval\Chat\Chat\obj\Debug\Chat.pdb
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\bin\Debug\Chat.exe.config
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\bin\Debug\Chat.exe
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\bin\Debug\Chat.pdb
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.exe
+C:\kevin.santos\batalhaNaval\BatalhaNaval\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.Form1.resources
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\lb29-02\Desktop\BatalhaNaval-master\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
